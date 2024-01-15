@@ -1,0 +1,6 @@
+public class LoginDetails{
+
+    private long mobileNumber;
+    private int otp;
+    
+}
